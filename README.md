@@ -1,19 +1,28 @@
 # Sky Tourism 🌍
 
-A responsive travel agency website built 
-using HTML, CSS, JavaScript and Bootstrap.
+A responsive travel agency website built using HTML, CSS, JavaScript, and Bootstrap.
 
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 - Bootstrap
 - Font Awesome
 
 ## ✨ Features
-- Responsive design for all screen sizes
-- Modern UI with proper navigation
-- Mobile friendly layout
+- Fully responsive design for all devices
+- Clean and modern user interface
+- Smooth navigation between sections
+- Mobile-friendly layout
+
+## 🎯 Project Focus
+This project focuses on building a responsive layout and improving UI structure using Bootstrap and CSS.
+
+## 📸 Preview
+![Home](your-image-link)
+
+## 🔗 Live Demo
+https://sky-tourism.netlify.app/
 
 ## 👨‍💻 Developer
 Balkrushna Amasara
