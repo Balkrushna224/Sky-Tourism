@@ -10,10 +10,10 @@ A responsive travel agency website built using HTML, CSS, JavaScript, and Bootst
 - Font Awesome
 
 ## ✨ Features
-- Fully responsive design for all devices
+- Responsive design for various screen sizes (desktop, tablet, mobile)
 - Clean and modern user interface
-- Smooth navigation between sections
-- Mobile-friendly layout
+- User-friendly navigation between sections
+- Mobile-friendly layout with basic responsiveness
 
 ## 🎯 Project Focus
 This project focuses on building a responsive layout and improving UI structure using Bootstrap and CSS.
@@ -24,7 +24,14 @@ This project focuses on building a responsive layout and improving UI structure 
 ![Home](Sky%20Tourism%20Images/Home.png)
 
 ### Footer Section
-![Footer](Sky%20Tourism%20Images/footer.png)
+![Footer](Sky%20Tourism%20Images/Footer_View.png)
+
+### Tablet View
+![Tablet](Sky%20Tourism%20Images/Tablet_View.png)
+
+### Mobile View
+![Mobile](Sky%20Tourism%20Images/Mobile_View.png)
+
 
 
 ## 🔗 Live Demo
