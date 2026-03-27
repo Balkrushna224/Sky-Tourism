@@ -19,7 +19,13 @@ A responsive travel agency website built using HTML, CSS, JavaScript, and Bootst
 This project focuses on building a responsive layout and improving UI structure using Bootstrap and CSS.
 
 ## 📸 Preview
-![Home](your-image-link)
+
+### Home Section
+![Home](Sky%20Tourism%20Images/Home.png)
+
+### Footer Section
+![Footer](Sky%20Tourism%20Images/footer.png)
+
 
 ## 🔗 Live Demo
 https://sky-tourism.netlify.app/
